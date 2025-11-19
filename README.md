@@ -1,7 +1,4 @@
-# bank-exam-study-plan
-banking exam tip
-[index.html](https://github.com/user-attachments/files/23625736/index.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
